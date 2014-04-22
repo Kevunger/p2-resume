@@ -4,7 +4,7 @@
 * poop
 
 ## Skillset
-*poop
+* poop
 
 ## Volunteering
 * Blue Mountain Humane Society
