@@ -67,8 +67,3 @@ h1 + hr {
 .showgrid {
 	background: url("../img/grid-bg.png") repeat-y;
 }
-
-.skills div h3{
-	border-left: 1px solid;
-	border-right: 1px solid;
-}
